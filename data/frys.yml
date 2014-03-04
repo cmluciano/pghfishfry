@@ -511,8 +511,8 @@ st_valentine:
   price: 'Prices listed above'
   contact: '412-851-9176, for info call 412-835-4415'
 st_victor:
-  name: 'Activity hall, St. Victor and Transfiguration'
-  address: '527 Bairdford Rd, Bairdford, PA 15006'
+  name: 'St. Victor and Transfiguration'
+  address: 'Activity hall,527 Bairdford Rd, Bairdford, PA 15006'
   glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kT3yEPvgOp7o"
   hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, noon-7pm'
   menu: 'Deluxe fish sandwich, hand-breaded fried cod sandwiches and dinners, baked cod loin sandwiches and dinner, oyster sandwiches and dinner, haluski,pierogies, shrimp basket, macaroni and cheese, crab cakes, clam strips,clam chowder and bake sale.'
