@@ -17,5 +17,3 @@ get '/fry/:location' do
   @fry=file[params[:location]]
   erb :fry
 end
-
-use Rack::GoogleAnalytics, :tracker => 'UA-48622923-1'
