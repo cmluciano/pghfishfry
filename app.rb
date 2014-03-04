@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 require 'yaml'
+require 'rack-google-analytics'
 
 get '/' do
     erb :index
@@ -17,4 +18,4 @@ get '/fry/:location' do
   erb :fry
 end
 
-
+use Rack::GoogleAnalytics, :tracker => 'UA-48622923-1'
