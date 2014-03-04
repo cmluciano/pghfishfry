@@ -1,2 +1,2 @@
-require './pghfishfry'
+require './app'
 run Sinatra::Application
