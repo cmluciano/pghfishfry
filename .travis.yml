@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: Nb7aoboFCkUKuFmIxHKdSz4RlkdI+eR6wxCwLlfQU5djNdmCMaTKyeiwsuA25gM06eIaV3JMYulSmzCnZNW+30g//1kEDbyjRHYFa/u+xBiZwC/UTgShdBNiDow6B3E7YMhufdiCTvWYsuDByBGgahFun0pc8uA2mGfpNBQfByE=
+  app: pghfishfry
+  on:
+    repo: drag00n/pghfishfry
