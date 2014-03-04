@@ -1,0 +1,761 @@
+st_albert:
+  name: St. Albert the Great
+  address: '3198 Schieck Street Pittsburgh, PA 15227'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kjlyurw4HmCU"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 3-7 p.m'
+  menu: 'fish sandwich, breaded fish on a dish, baked fish, breaded shrimp, Maryland crab cake and homemade pierogies.'
+  price: 'Cost is $9 for dinners, and includes two sides (french fries, potato pan- cakes, haluski, macaroni and cheese, cole slaw or stewed tomatoes). A la carte menu: fish sandwich, $6; Maryland crab cakes, $6; grilled cheese sandwich, $6; clam chowder, $3; cheese pizza, $2 per slice; potato pancakes, $2; desserts $1 and much more'
+  contact: 412-440-0221
+st_alexis:
+  name: St. Alexis
+  address: '10090 Old Perry Hwy, Wexford, PA 15090'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kWU6q5-YHQXU"
+  hours: 'Fridays of Lent, except Good Friday, 4:30-7:30 p.m'
+  menu: 'Dinner is choice of baked cod or “king cod” (fresh-battered fried fish), choice of two sides (pierogies, scalloped pota- toes, green beans, cole slaw, apple- sauce or macaroni and cheese), roll and choice of homemade dessert and beverage (except for takeout)'
+  price: 'Cost is $9 for adults, $6 for children under 10 and free for children under 3. Also, $6 sandwich, $3 bowl of soup and roll.'
+  contact: 'Call 724-401-1FRY after 3:30 p.m., or use order online at stalexis.org.'
+st_alphonsus:
+  name: St. Alphonsus
+  address: '201 Church Rd, Wexford, PA 15090, school cafeteria'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kKpr_P32kyGk"
+  hours: 'Ash Wednesday (special menu and takeout only) and Fridays of Lent, including Good Friday, 4:30-7:30 p.m.'
+  menu: 'Choice of hand-breaded fried cod, baked cod or fried shrimp, with choice of two sides (french fries, baked po- tato or macaroni and cheese, and cole slaw or applesauce), choice of soup (New England clam chowder, tomato Florentine) and beverage. Desserts are available'
+  price: ' Cost is $9 for adult din- ner, $2 for children’s dinner and $6 for sandwiches. '
+  contact: 'To place an order call 724-759-8659, for infomation only call 724-935-1151'
+st_anne:
+  name: St. Anne
+  address: '4040 Willow Ave, Castle Shannon, PA 15234, school gym'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.ki_M2iy6cHMo"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4-7 p.m.'
+  menu: 'Dinners include baked or fried fish, fried seafood platter, fried sea scallops, jumbo shrimp, baked fish Florentine, crab cake. Also, jumbo baked fried fish sandwich. Sides include cole slaw, french fries, onion rings, baked potato, homemade pierogies (potato/cheese or sauerkraut), macaroni and cheese, haluski and pizza.'
+  price: 'No prices listed'
+  contact: 'Call 412-561-0101 after 3:30 p.m. For more information, call 412-531-5964.'
+ascension:
+  name: Ascension
+  address: '114 Berry St, Pittsburgh, PA 15205 in Father Connor Hall'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kU0OwRbVDCyI"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4-6:30 p.m.'
+  menu: 'Din- ners include fried or baked fish, jumbo shrimp, crab cake and seafood platter. Menu includes fish sandwich, fish din- ner, baked fish dinner, jumbo shrimp dinner, crab cake dinner, seafood dinner, macaroni and cheese, soup, haluski, beverages and desserts.'
+  price: 'No prices listed'
+  contact: 'No contact listed'
+assumption:
+  name: Assumption
+  address: '45 N Sprague Ave, Pittsburgh, PA 15202 in Mc-Govern Hall'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kbDNeTd7xYU0"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, 4-7:30 p.m.'
+  menu: 'Fresh breaded or baked fish, fish sandwich, shrimp, pierogies, haluski, macaroni and cheese, french fries, cole slaw, apple applesauce and tossed salad. There is also a bake sale.'
+  price: 'No prices listed'
+  contact: 'To order, call 412-766-9727. For information only, call 412-766- 9727 or 412-766-6661.'
+st_barth:
+  name: St. Bartholomew
+  address: 'School caferteria, Frankstown Road at Erhardt Drive; 111 Erhardt Dr, Pittsburgh, PA 15235'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k4JdQwodbyK8" 
+  hours: 'Fridays of Lent, except Good Friday, 4:30-7 p.m.'
+  menu: 'Featuring “Big Bart” gi- ant fish dinner, which includes choice of cod (battered, breaded or baked), crab cakes or seven breaded jumbo shrimp, with choice of side (french fries, haluski or macaroni and cheese), dinner roll or sandwich bun, cole slaw and dessert.'
+  price: 'Cost is $9 for adults, $8 for seniors. A la carte menu includes: jumbo fish sandwich, $6; two crab cakes, $6; jumbo shrimp, $6; 5-inch round deep-dish pizza, $3; pierogies, $2 for three or $4 for six; breadsticks with red sauce, $2, cheese sticks. Also french fries, haluski, macaroni and cheese, cole slaw, desserts, beverages, bottled water and more. Coffee and hot tea is complimentary'
+  contact: 'No contact listed'
+st_bernard:
+  name: St. Bernard
+  address: 'Clairvaux Hall, 311 Washington Rd, Pittsburgh, PA 15216.'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kN_KZs7swN-0"
+  hours: 'Fridays of Lent, except Good Friday, 4-7:30 p.m.'
+  menu: 'Featuring “Pittsburgh’s Gourmet Fish Fry.” Menu: fried and baked fish dinners and sandwiches, homemade gumbo, pizza, macaroni and cheese, salads and pierogies plus. Weekly specials include home- made crab cakes, pasta fra diavolo with shrimp, pasta with garlic, pine nuts and tomato sauce. Dressings are homemade.'
+  price: 'Cost: dinner, $9; sand- wiches, $7; weekly specials, $9; home- made creole gumbo, $4; pizza, $2 per slice; salad, $2.'
+  contact: '412-341-1565.'
+st_bernadette:
+  name: St. Bernadette
+  address: 'Lourdes Center Dining Room, 245 Azalea Dr, Monroeville, PA 15146'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k3o62AoQwmpY"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, 4:30-7:30 p.m.'
+  menu: 'A la carte menu includes fish sandwich (fried or baked), fried shrimp, pizza slice and grilled cheese sandwich. Also featuring “The Gar- gotta” (fried fish, cheese, cole slaw and saber spuds on a bun). Sides include cole slaw, haluski, macaroni and cheese, pierogies, saber spuds (french fries), clam chowder, as well as a “soup of the week.” Platters consist of any a la carte item and two sides. Junior platter is any a la carte item and one side. Also featuring “side sam- pler,” which consists of your choice of any three sides. Note, “The Gargotta” is not offered as a platter.'
+  price: 'No prices listed'
+  contact: '412-843-0668 starting at 3:30 p.m. Orders can be picked up any time after 4:30 p.m.'
+st_bonaventure:
+  name: St. Bonaventure
+  address: 'Newmeyer Hall, 2001 Mt Royal Blvd, Glenshaw, PA 15116'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kyigjgMcwUDM"
+  hours: 'Fridays, March 21 and April 11, 4-7:30 p.m.'
+  menu: 'Beer-battered fried cod, fish sandwiches, baked fish, breaded shrimp and shrimp scampi. Dinners are served with macaroni and cheese, baked potato, cole slaw or applesauce. Choice of soup: clam chowder or tomato Florentine.'
+  price: 'No prices listed'
+  contact: '412-486-2606, ext. 305, or 412-487-9949'
+st_catherine:
+  name: 'St. Catherine of Sweden'
+  address: 'Farmer Hall, 2554 Wildwood Rd, Allison Park, PA 15101'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.khnKmq93yFsU"
+  hours: 'Fridays of Lent, except Good Friday, 4-7:30 p.m.'
+  menu: 'Dinners: baked or fried fish or shrimp, with choice of two side dishes and a beverage. Also, fish sandwich and vegetarian chef salad. Macaroni and cheese dinner includes one side with dessert. Sides include french fries, applesauce, cole slaw, macaroni and cheese, and pierogies. Boston clam chowder and soup of the week.'
+  price: 'Dinners are $9 for adults, $8 for seniors and $4 for children. Fish sandwiches are $6. Early bird dine in special, save 10 percent from 4-5 p.m. '
+  contact: '412-486-6001. Orders can be placed online at www.stcatherineofsweden. org. Orders placed online or by phone can be picked up using the drive-thru option.'
+st_colman:
+  name: St. Colman
+  address: 'School cafeteria, 100 Tri Boro Expy, Turtle Creek, PA 15145'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kDy-3bYbeMnw"
+  hours: 'Ash Wednesdays, Fridays of Lent and monthly, 4-7 p.m'
+  menu: 'Baked or fried cod, haluski, pierogies, macaroni and cheese, french fries, cole slaw, crab cakes, clam chowder, soft drinks, coffee and tea.'
+  price: 'Fish sandwiches are $6,sides are $1.75 each or $3 for two'
+  contact: 'No contact listed'
+holy_child:
+  name: Holy Child
+  address: 'Holy Child cafeteria, 220 Station St, Bridgeville, PA 15017'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kasRF8UikduM"
+  hours: 'Ash Wednesday and every Friday in Lent includes Good Friday, 4-7pm'
+  menu: 'Fried / baked fish, fish sandwiches, shrimp'
+  price: '$9 adults and $5.50 child, $7.50 sandwiches'
+  contact: '(412) 221-4720 takeout and phone orders after 3pm'
+corp_christi:
+  name: 'Corpus Christi'
+  address: 'Parish Hall, 803 Market St, McKeesport, PA 15132'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k6hou5vfvLxA"
+  hours: 'Ash Wednesday and Fridays of Lent except Good Friday, 10 a.m.-7 p.m.'
+  menu: "Hand-breaded fried fish sandwich, $5.50; baked fish, $5.50; 6oz. crab cake sandwich, $5.50; fried butterfly shrimp, $5.50; tuna melt sandwich,$5; tuna salad croissant, $4.50; toasted cheese sandwich, $3.50; Sides include french fries, cheese balls, hush puppies, homemadesoup, stewed tomatoes, baked macaroni and cheese, cabbage with homemade noodles, cole slaw and applesauce.Homemade potato pierogies with butter and onions are $2. Special children’s meal of small fish or toast cheese sandwich with french fries or macaroni and cheese, $5. Special homemade soup of the week Menu: March 7, cream of potato; March 14, lobster bisque; March 21, broccoli and cheese; March 28, lobster bisque; April 4, creamy mushroom; April 11, seafood chowder. Campbell’s tomato soup offered every week. Special feature is thin sweet crepes filled with sweet cream cheese or lekvar, $1 each."
+  price: 'Refer to prices above'
+  contact: 'Ten percent of proceeds go to the Greater Pittsburgh Community Food Bank. Takeout and delivery is available. To place an order and for information, call 412-672-6004.'
+st_gabriel:
+  name: 'St. Gabriel'
+  address: 'Parish Hall, 5200 Greenridge Dr, Pittsburgh, PA 15236'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kZqEiuphWGT8"
+  hours: 'Fridays of Lent, except Good Friday, 4-7 p.m.'
+  menu: 'Menu features baked orange roughy, hand-breaded fried cod, fried shrimp, seafood cakes and pizza.'
+  price: 'No prices listed'
+  contact: 'To place an order, call 412-881-0495. For informa- tion, call 412-881-8115.'
+epiphany:
+  name: "Epiphany"
+  address: 'McDowell Hall, 164 Washington Pl, Pittsburgh, PA 15219 (next to Consol Energy Center)'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k1diAyWAV1HY"
+  hours: 'Ash Wednesdays, Fridays of Lent, including Good Friday, and every Fri- day throughout the year, 11 a.m.-6:30 p.m.'
+  menu: 'Features baked and fried fish, shrimp, pierogies, soup, macaroni and cheese, desserts and more.'
+  price: 'No prices listed'
+  contact: '412-471-1008'
+guard_angels:
+  name: 'Guardian Angels'
+  address: 'Parish center hall, 1000 Logue St, Pittsburgh, PA 15220'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kI1tcc0SuxwE"
+  hours: 'Ash Wednesday and Fridays of Lent, except March 7, and including Good Friday, 3-7 p.m.'
+  menu: 'Menu also includes shrimp basket, fish sandwich, macaroni and cheese, cabbage and noodles, broc- coli soup, clam chowder, tomato soup, pierogies, cheese sticks, grilled cheese sandwich, french fries, stewed tomatoes, green beans and cole slaw. Featuring Mancini dinner rolls. Hot drinks and desserts are complimentary'
+  price: 'Dinners feature crab cake, shrimp, fried fish, and baked fish, $9.'
+  contact: 'To place an order, call 412-921-9463 starting at 3 p.m., for information only call 412-921-4077'
+holy_angels:
+  name: 'Holy Angels'
+  address: 'Parish hall, 408 Baldwin Rd, Pittsburgh, PA 15207'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kUCn9BaHL_Cw"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 11 a.m.-6 p.m.'
+  menu: 'Menu features fried fish sandwich dinner, baked fish dinner, fried or baked fish sandwich, pizza, New England clam chowder, Maryland crab soup, macaroni and cheese, and desserts. '
+  price: 'Dinners are $8, and include sandwich, french fries and cole slaw, sandwiches are $7, soup is $2.75, and pizza is $1 per slice or $6 for a whole. '
+  contact: 'To place an order or for information, call 412-461-9503.'
+holy_family:
+  name: 'Holy Family'
+  address: 'Social hall, 787 Freeport Rd, Creighton, PA 15030'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.ksR5zJ43ZsT0"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, 11 a.m.-6 p.m.'
+  menu: 'Adult dinners include fish, haluski or rice, one potato pancake, cole slaw and roll. Child dinners include fish on a dish with macaroni and cheese or seasoned rice. A la carte menu features shrimp and rice, veggie cod bake with seasoned vegetables and mild salsa, haluski, seasoned rice, cole slaw, macaroni and cheese, potato pancakes, crepes, pierogies, meatless stuffed cabbage (with rice), porta- bella bruschetta, soup of the day and baked goods. Featuring homemade plain horseradish or Father Mauro’s cranberry horseradish. Featuring Slo- vak “pagach,” fried dough filled with potato/cheese, potato/sauerkraut or sweet cabbage. Beverages are free for dine-in customers.'
+  price: 'No prices listed'
+  contact: 'Free lunch delivery with $20 minimum order. To place an order, call 724- 224-8342 or fax 724-224-0609'
+holy_spirit:
+  name: 'Holy Spirit'
+  address: '608 Farragut St Pittsburgh, PA 15209'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5htzUD6ewgs"
+  hours: 'Good Friday only, takeout from 7 a.m.-6 p.m., eat-in from 11 a.m.-6:30 p.m.'
+  menu: 'Dave Long will prepare Icelandic cod. '
+  price: 'Adult dinner is $10, and includes fish, or shrimp, macaroni and cheese, or french fries, stewed tomatoes, cole slaw, roll, dessert and drink. Fish sandwich is $6. children’s meal is $7, and includes fish sandwich and side'
+  contact: '412-874-5470'
+im_heart:
+  name: 'Immaculate Heart of Mary'
+  address: 'Church hall, 3058 Brereton St, Pittsburgh, PA 15219'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kzSgbNbfEh7w"
+  hours: 'Ash Wednesday and Fridays of Lent except March 7 and Good Friday, 3:30-6 p.m.'
+  menu: 'Fish, french fries, cole slaw, and dessert'
+  price: '$8'
+  contact: '412-621-5441'
+st_james:
+  name: 'St. James'
+  address: 'School cafeteria, 200 Walnut St, Sewickley, PA 15143'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kSPzYm2dMry0"
+  hours: 'Fridays of Lent, including Good Friday 4-7 p.m.'
+  menu: 'Entrees include fried fish sandwich dinner, Boston baked fish, baked salmon, linguini with clam sauce, pierogies, pizza, and children’s plate. Side dishes include french fries, haluski, macaroni and cheese, applesauce, and green beans'
+  price: 'No prices listed'
+  contact: '412-741-5540, ext.2, after 3'
+st_james2:
+  name: 'St. James'
+  address: 'School cafeteria, 718 Franklin Ave, Pittsburgh, PA 15221'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5qLfnBI9Y2M"
+  hours: 'Ash Wednesday only, 4-7 p.m.'
+  menu: 'includes baked or fried fish dinner, haluski or macaroni and cheese, applesauce or cole slaw, and drinks'
+  price: 'Dinner is $7.50 for adults, $6.50 for seniors, Fish sandwich and child’s dinner is $4; Proceeds benefit St. James ministry center and Food Bank'
+  contact: '412-241-1392' 
+joan_arc:
+  name: 'St. Joan of Arc'
+  address: '6470 Library Rd, South Park Township, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k01x30XS_v_g"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Fridays, 11 a.m.-7p.m.'
+  menu: 'Lunch specials: Fried cod sandwich w/ fries, 7.50; pizza with side salad, $5 (toppings additional); one crab cake with cup of soup, $5.50. Dinner entrees: fried cod sandwich, $7; baked cod fish w/ hollandaise sauce, $7;cod fish dinner, with fried or baked fish, french fries, cole slaw and dinner roll, $9; baked Norwegian salmon, w/ a dill hollandaise sauce $7, with a side sald and roll, $10; fried shrimp, $5.50; shrimp po’boy sandwich with french fries, $8; St. Joan’s homemade lump crab cake, $4 for one, $7.50 for two; seafood combo (fried or baked cod with bun, two shrimp, one crab cake), $10; fish taco, $4.50 for two; pierogies, with butter and onions, $5 for six; tossed salad with shrimp and crackers, $7; red flatbread pizza, $3 plain, 75 cents extra for pepperoni;white flatbread pizza, $3, tomatoes and spinach, 75 cents each. Side orders include New England clam chowderchowder, soup of the day, cabbage and noodles, macaroni and cheese, french fries and more. Beer and wine are available. Dine-in or takeout. To place an order'
+  price: 'Prices listed above'
+  contact: '412-854-3173'
+john_bap:
+  name: 'St. John the Baptist'
+  address: 'School cafeteria, 418 Unity Center Rd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kWwpwdPt7CPQ"
+  hours: 'Fridays of Lent, except Good Friday, 4-7 p.m.'
+  menu: 'FIsh dinner, $8, with choice of baked or fried fish sandwich, choice of macaroni and cheese, french fries or haluski, cole slaw and drink. Featured dinners: March 7, pierogies; March 14, eggplant parmesan; March 21, crab cakes; March 28, pierogies; April 4, all-you-can-eat pasta; April 11, crab cakes. Family special for $28, includes four fish sandwiches, two large sides and four drinks. Also, children’s menu and a la carte items'
+  price: 'Prices listed above'
+  contact: '12-793-0555, ext.241'
+john_vian:
+  name: 'St. John Vianney'
+  address: 'Parish center, 823 Climax St, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k_dz_df7RjGE"
+  hours: 'Ash Wednesday and Good Friday, 111 a.m.-7 p.m.'
+  menu: 'Includes baked and fried fish dinners, fish sandwiches, shrimp, crab cakes, pierogies, haluski, french fries, macaroni and cheese, stewed tomatoes, soup, and more'
+  price: 'No prices listed'
+  contact: '412-431-3790. information 412-431-3790'
+st_joe:
+  name: 'St Joseph Roman Catholic Church'
+  address: '1304 4th Ave, Coraopolis, PA 15108'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kiZqcKonXtig"
+  hours: '11:30 a.m.-1.p.m. (lunch), 3:30-6:45 p.m. (dinner)'
+  menu: 'Deep-fried or baked 5115 Second Ave. Menu includes fish dinner with bun/roll, french fries and cole slaw, $10; fried shrimp dinnner, with french fries, cole slaw, and roll, $10; macaroni and cheese dinner with cole slaw and roll, $8; A la carte inlude fish sandwiche, macaroni and cheese, french fries, haluski, and potato pancakes. pierogies sold by half or whole dozen'
+  price: 'Prices listed above'
+  contact: '412-264-1518'
+st_joe2:
+  name: 'St Joseph'
+  address: 'School cafeteria, 825 2nd St, Verona, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kzLqSVN-z4h4"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, except Friday, April 4, 4-7 p.m'
+  menu: 'Baked and fried fish dinners, shrimp, pizza, macaroni and cheese, haluski and weekly specials. '
+  price: 'Cost is $8.75 for platter, $7.50 senior platter, $6 sandwich, $1.75 sides.'
+  contact: 'Phone orders taken for shut-ins only, call 412-795-5114. Takeout is available. To place an order and for information, call 412-795-5114'
+st_louise:
+  name: 'St. Louise de Marillac'
+  address: 'Parish center, 320 McMurray Rd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5Wiy4nsak0c"
+  hours: 'Fridays of Lent, except Good Friday, 4:30-7:30 p.m'
+  menu: 'Fried and baked fish sandwiches and platters, pierogies, pizza, soup of the week, crab cakes, fried shrimp, macaroni and cheese, haluski, french fries, cole slaw, salad, dessert a beverages'
+  price: 'Dinner $8.50, a la carte items range from $1-$2'
+  contact: 'Info only 412-833-1010'
+mad_castello:
+  name: 'Madonna del Castello'
+  address: 'Social hall, 2021 S Braddock Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kxEFzMpIWgU8"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, noon-7 p.m.'
+  menu: 'Baked or fried fish dinner; a la carte eggplant sandwiches, haluski, macaroni and cheese, pasta a fagiole, applesauce, bread and butter, and beverages'
+  price: 'Dinner $8'
+  contact: '412-271-3959, delivery available until 2p.m.'
+st_malachy:
+  name: 'St. Malanchy'
+  address: 'School caferteria, 343 Forest Grove Rd, Coraopolis, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kpj8AlWpsUyw"
+  hours: 'Ash Wednesday and Fridays of Lent, noon-7 p.m.; limited menu on Good Friday 3-6 pm'
+  menu: 'Fish sandwich/baked fish, $7; tuna salad sandwich $5; crab cake sandwih with cole slaw, $4; shrimp in basket, $5; jumbo shrimp, $6; macaroni and cheese, $4; french fries, $2; cabbage and noodles, $3; pierogies, $7 a dozen, $4 half-dozen; 9-inch pizza, $5; cole slaw, $1 single service, $2 1/2 pint, $3 a pint'
+  price: 'Prices listed above'
+  contact: '412-771-0848, information only 412-260-0071'
+mar_gor:
+  name: 'St. Maria Goretti'
+  address: 'Friendship Campus Hall, 321 Edmond St, Pittsburgh, PA 15224'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5l2bJaob8F4"
+  hours: 'Ash Wednesday and fridays of Lent, except Good Friday, 4-7p.m.'
+  menu: 'March 5, baked or fried fish dinner or shrimp, french fries and cole slaw; March  7, baked or fried fish dinner or shrimp, spaghetti with garlic and oil; March 14, baked or fried fish dinner or shrimp, french fries and cole slaw; March 21, baked or fried fish dinner or shrimp, macaroni and cheese, vegetable; March 28th, baked or fried fish dinner or shrimp, spaghetti with garlic and oil, broccoli; April 4, baked or fried fish dinner or shrimp, cabbage and noodles, vegetable; April 11, baked or fried fish dinner or shrimp, french fries, and cole slaw. '
+  price: 'All meals include a free drink, french fries can be substituted for side dishes each week; Dinners are $10, Children $7, fish sandwich $8'
+  contact: '412-682-2509'
+marge:
+  name: 'St. Margaret of Scotland Parish'
+  address: 'School cafeteria, 310 Mansfield Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.klhkX8-XHdsA"
+  hours: 'Fridays of Lent, except Good Friday, 4-7pm'
+  menu: 'Choice from selection of fried/baked fish, fried crab cakes or popcorn shrimp; Sides include hand-cut french fries, cole slaw, and a vegetable; Also featuring a pasta of the week'
+  price: 'Special family deals, but no other prices are listed'
+  contact: '412-922-7279'
+st_mark:
+  name: 'St. Mark'
+  address: 'Rowan Hall at Liberty Borough site, 3210 Liberty Way, McKeesport, PA 15133'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kGicEzoOct0g"
+  hours: 'Fridays of Lent, including Good Friday, 3-7 p.m.'
+  menu: 'Baked or fried Atlantic cod with two sides, $9; breaded shrimp with two sides, $9; two crab cakes or golden brown fried clams with two sides, $8; small fish sandwich with two sides, $8; giant fish sandwich with two sides, $10; Featuring deluxe dinner of stuffed salmon, with two sides and a salad (made to order), $10. Special child menu: meal of 5 fish sticks and one side, $4; A la carte: small fish sandwich, crab cakes or clams, fish sticks. Side menu: french fries (can add cheese), macaroni and cheese, haluski, pierogies, hush puppies, vegetable, cole slaw, side salad '
+  price: 'Prices lsited above'
+  contact: 'Dine-in/Takeout; 412-678-3445, info only 412-478-0064 or 412-673-0329'
+mary_assump:
+  name: 'St. Mary of the Assumption'
+  address: 'Social hall, 2510 Middle Rd, Glenshaw, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k6n3-mdRu4_8"
+  hours: 'Ash Wednesday and Fridays of Lent, 4:30-7 p.m.'
+  menu: 'Choice of baked/fried breaded fish filet with sandwich bun or dinner roll, and a choice of 3 sides, baked potato, macaroni and cheese, green beans, corn, cole slaw, and applesauce'
+  price: 'Dinner $9, Seniors $8, Children $5 4-10, $3 for ages 3 and under, and includes choice of pizza ot fried breaded fish fillet with sandwich bun and choice of 2 sides'
+  contact: 'Eat-in or takeout, 412-684-1112'
+mary_mount:
+  name: 'St. Mary of the Mount'
+  address: 'Cafeteria, 131 Bigham St, Pittsburgh, PA 15211'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k8HZFUO-P64U"
+  hours: 'Ash Wednesday and Fridays of Lent inluding Good Friday, 4-7pm.'
+  menu: 'Fried fish, baked fish, hand-breaded shrimp, crab cake, and weekly special; 10, and includes cole slaw and choice of french fries, macaroni and cheese, stewed tomato, vegetable, baked potato or haluski, with roll and dessert. Special family meal deal for $36. Extensive a la carte menu includes fried and baked fish sandwich, homemade haluski and pierogies, grilled cheese, cheese pizza, desserts and more.  '
+  price: 'Prices listed above, make sure to ask for a senior discount'
+  contact: '412-390-4011'
+st_maurice:
+  name: 'St. Maurice'
+  address: 'Father Keane Hall, 2001 Ardmore Blvd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kLLX1X4WavKE"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 2:30-7 p.m.'
+  menu: 'One-piece fried or baked fish or shrimp basket, with haluski or macaroni and cheese or french fries, cole slaw, sandwich bun or dinner roll, $8; pasta dinner with marinara sauce (roll and side of cole slaw), $5; fried or baked fish sandwich, $6; shrimp bas- ket only, $5.50; fried of baked piece of fish, $5.50; haluski, macaroni and cheese, or cole slaw, $4 for 16 ounces, $2 for 8 ounces; french fries, pizza and side of pasta is $2. Handmade potato and cheese or sauerkraut pierogies are sold for $6.50 a dozen (takeout only)'
+  price: 'Prices listed above'
+  contact: 'To place an order, call 412-271-9676. For information only, call 412-271-0809.'
+max_kolbe:
+  name: 'St. Maximilian Kolbe'
+  address: 'Parish hall, 363 W 11th Ave, Homestead, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.krsG6rS-R1e0"
+  hours: 'Every Friday, from September through May, including Good Friday, 11 a.m.- 6:30 p.m.'
+  menu: 'fried fish sandwich, $7; fried fish dinner, $8.50; jumbo shrimp dinner, $8.50; popcorn shrimp dinner, $6.50; fried clam dinner, $8.50; crab cake dinner, $9.25; stuffed flounder dinner, $10.75: linguini with plain red sauce and with shrimp or scallops, $8.75; pizza with cheese, $5; pierogies, $2.75 for three, $5 for six, $8 for 12; potato pancakes, $4.75; steak fries, $2; and much more. Also, cabbage and noodles, potato haluski, macaroni and cheese, soup, cole slaw, salad, tuna noodle casserole and more. Ad- ditional items available during rest of the year. Eat-in or takeout. '
+  price: 'Prices listed above'
+  contact: '412-462-1743'
+st_michael:
+  name: 'St. Michael'
+  address: 'Archangel hall, 101 McLay Dr, Elizabeth, PA 15037'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kDSjHN1sUWms"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, 4-7 p.m.'
+  menu: 'Menu features fish dinner, fish sandwiches, shrimp dinner, pierogies, cheese ravioli, haluski, macaroni and cheese, variety of homemade soups, cheese pizza, cole slaw, french fries and a variety of desserts.'
+  price: 'No prices listed'
+  contact: 'For information only, call 412-751-0663'
+holy_jesus:
+  name: 'Most Holy Name of Jesus'
+  address: 'Social hall, 1515 Tinsbury St, Pittsburgh, PA 15212'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.koyoZ0_tYNBQ"
+  hours: 'Fridays of Lent, except Good Friday, 4-7 p.m.,'
+  menu: 'Dinners are $9, and include fried or baked cod, or two crab cakes, or seven breaded jumbo shrimp, with bun or dinner roll, choice of french fries or macaroni and cheese, choice of homemade cole slaw, applesauce or stewed tomatoes, dessert and beverage (for eat-in customers only). A la carte menu features jumbo fish sandwich, crab cakes, breaded jumbo shrimp, pierogies, french fries, haluski, macaroni and cheese, cole slaw, dessert, stewed tomatoes and apple- sauce.'
+  price: 'Donation for tour and lunch is $10.'
+  contact: 'Carole at 412-999-4401'
+nativity:
+  name: 'Nativity'
+  address: 'Cafeteria, 5811 Curry Rd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kdft5WqVNWbM"
+  hours: 'Ash Wednesday, 3-7 p.m.'
+  menu: 'Fish dinner is $9, and includes baked or fried fish, macaroni and cheese, french fries or haluski, cole slaw or applesauce, roll, coffee or tea. Children’s dinner for those 10 and under is $3.50. Pop and baked goods are available. '
+  price: 'Prices listed above; Also featuring a Chinese auction'
+  contact: '412-653-1502'
+st_nobert:
+  name: 'St. Norbert'
+  address: 'Parish hall, 2413 St Norberts St, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kHBhilkrX1nE"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4-7:30 p.m. (fish sandwich served from 11:30 a.m.-4 p.m.)'
+  menu: 'Baked or fried fish dinners or sandwiches, shrimp or crab cake dinners, pierogies, macarroni and cheese, french fries, haluski, cole slaw, soup, stewed tomatoes, potato pancakes, pizza and more. All dinners include two side orders and coffee or tea. Desserts are also available. Fish sandwich with french fries or cole slaw is available from 11:30 a.m.-4 p.m. for takeout only. Also, 50/50 raffle and pot o’ gold.'
+  price: 'No prices listed'
+  contact: '412-881- 8201'
+na_martyrs:
+  name: 'North American Martyrs'
+  address: 'DeLuca Hall, 2526 Haymaker Rd, Monroeville, PA 15146'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kEmsJ9bHgBC4"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 11:30 a.m.-7 p.m.'
+  menu: 'Fried and baked fish, french fries, cole slaw, applesauce, macaroni and cheese, homemade pierogies, haluski and pizza.'
+  price: 'No prices listed'
+  contact: '412-372- 9771. For more information, also visit www.namschool.org'
+lady_grace:
+  name: 'Our Lady of Grace'
+  address: 'Conroy hall, 310 Kane Blvd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kZP6taI-YtW0"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4:30-7 p.m., (3:30-7 p.m. on Good Friday)'
+  menu: 'Dinner menu features shrimp, baked fish, fried fish, fish sandwich and crab cake. Cost is $10.50 for adults, $9.50 for seniors and kids, and includes entrée, potato, cole slaw, dessert and drink. Special seafood platter dinner is $12.50 for adults, $11.50 for seniors and kids. A la carte menu includes fried shrimp, fish sandwich, crab cakes, slice of pizza, french fries, baked potato, pierogies, haluski, lobster bisque, clam chowder and macaroni and cheese. Fish served is hand-breaded North Atlantic cod.'
+  price: 'Prices listed above'
+  contact: '412-200-2694'
+lady_joy:
+  name: 'Our Lady of Joy'
+  address: 'Father Marchukonis Hall, 2000 O Block Rd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kGgEaleHv2R4"
+  hours: 'Ash Wednesday and Fridays of Lent, 5 -7:30 p.m. (4-7:30 p.m. on Ash Wednesday)'
+  menu: 'Fish bake'
+  price: 'No prices listed, Proceeds benefit parish’s Knights of Columbus charities.'
+  contact: 'No contact listed'
+b_sacrament:
+  name: 'Our Lady of Most Blessed Sacrament'
+  address: 'School cafeteria, 800 Montana Ave, Natrona Heights, PA 15065'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kcspNd6idNj4"
+  hours: 'Fridays of Lent, including Good Friday, 4-7 p.m.'
+  menu: 'Featuring fried and baked fish, soup, cole slaw, macaroni and cheese, pizza, pierogies, fish and chips basket, family meal and more.'
+  price: 'No prices listed'
+  contact: 'No contact listed'
+st_peter:
+  name: 'St. Peter'
+  address: 'Our Lady Queen of Peace Church Hall, 907 Middle St, Pittsburgh, PA 15212'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kKQbyEn5Nr0Q"
+  hours: 'Fridays of Lent, except Good Friday 11:30 a.m.-2 p.m. (lunch), 4-6:30 p.m. (dinner)'
+  menu: 'Lunch menu includes a la carte items: tuna or egg salad on a croissant, grilled cheese, fried fish, soup of the day and french fries. Dinner menu includes choice of baked or fried cod, salmon or crab cakes, macaroni and cheese, or haluski, vegetable, cole slaw or pickled beets, roll and butter, dessert, coffee or tea'
+  price: 'Dinners are $9.'
+  contact: '412- 321-2499. For information only, call 412-321-0711'
+st_philip:
+  name: 'St. Philip'
+  address: 'School cafeteria, 52 W Crafton Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kifNQBoyZGbI"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4:30-7 p.m.'
+  menu: 'Dinners: fried or baked fish sandwich, $8.75; crab cakes, $8.50; jumbo shrimp, $8.50; pasta dinner with salad, $7.50; cod fish sandwich, $8. All seafood dinners come with cole slaw and choice of french fries or salad. Other menu items include crab cake, haluski, french fries, macaroni and cheese, pasta, pierogies, salad, stewed tomatoes, cole slaw, nachos and french fries with cheese. Special family deal for $27, includes two cod fish sandwiches, french fries, pasta, two cole slaw or salad, and choice of three sides (macaroni and cheese, haluski, salad, pasta, french fries and pierogies).'
+  price: 'Prices listed above'
+  contact: '412-928-2742, ext. 9'
+prince_peace:
+  name: 'Prince of Peace'
+  address: '81 S 13th St, Pittsburgh, PA 15203'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kObjsonnz1uc"
+  hours: 'Ash Wednesday and Good Friday, 11 a.m.-6:30 p.m.'
+  menu: 'Fish dinner, with two sides, cole slaw, roll, dessert and coffee or tea, $9. Fish sandwich is $6. Featuring homemade pierogies served ready to eat or frozen. Sides include haluski, green beans, stewed tomatoes and maca- roni and cheese.'
+  price: 'Prices listed above'
+  contact: '412-225-7864'
+queen_rosary:
+  name: 'Queen of the Rosary'
+  address: 'Social hall, 530 Michigan Ave, Glassport, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kJhPZMBDj2Ts"
+  hours: 'Ash Wednesday, and Fridays of Lent, including Good Friday, 11 a.m.-7 p.m.'
+  menu: 'Batter-dipped cod, baked cod loin, shrimp, fish sandwich, potato pancakes (made fresh), variety of soups and more. Sides include french fries, pierogies, haluski, macaroni and cheese, and more'
+  price: 'Dinners are $8.50 and include two sides, $7 for fish sandwich, and $7.50 for fish and chips. Also featur- ing a bake sale, raffles, small games of chance, free coffee and tea.'
+  contact: '412-872-5136. For information, call 412-672-7209'
+st_regis:
+  name: 'St Regis'
+  address: 'Social hall, 3235 Parkview Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.ktAx_XRWNJBA"
+  hours: 'Friday, March 21, 11 a.m.-6 p.m.'
+  menu: 'Fried and baked fish sandwich, macaroni and cheese, french fries, cole slaw, dessert and drink.  Also featuring a bake sale. On all other Fridays of Lent, except Good Friday, there will be Lenten dinner featuring meatless Mexican and Latino food. '
+  price: 'Full dinner is $10, sandwich and cole slaw is $8. Full children’s dinner is $5, and $4 for children’s sandwich.'
+  contact: '412- 681-9149 after 11 a.m. on day of sale only. For more information, visit www.stregisparish.org'
+resurrection:
+  name: 'Resurrection'
+  address: 'Garden room, 1100 Creedmoor Ave, Pittsburgh, PA 15226'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kbQa8fzKQwqM"
+  hours: 'Ash Wednesday and Fridays of Lent, except Good Friday, 11 a.m.-1 p.m. lunch takeout, 4-7, p.m. dinner'
+  menu: 'Fish dinner is $11 for adults, and includes beer-battered fried or baked fish, homemade macaroni and cheese, or french fries, stewed tomatoes, cole slaw or applesauce, dessert, roll, coffee or tea. Children’s dinner is $7. A la carte menu: beer-battered fish sandwich, $7.50; french fries, $1; cole slaw, $1, homemade pierogies, $3 for four. '
+  price: 'Prices listed above'
+  contact: '412-563-4400'
+st_richard:
+  name: 'St Richard'
+  address: 'Social hall, 3841 Dickey Rd, Gibsonia, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kV6d-o5z-uGY"
+  hours: 'Fridays, March 14 and April 11, 4-7pm'
+  menu: 'Dinners includes baked or fried fish macaroni and cheese, or french fries, macaroni and cheese, or french fries, cole slaw, roll, drink, and dessert (take-out does not include dessert and drink) Child meal includes fish and french fries or macaroni and cheese. ALso, fish sandwich with cole slaw on side. Pierogies available as a side item'
+  price: 'Fish dinner is $10, child meal $5, fish sandwiche is $7, and pierogies are $3'
+  contact: 'No contact listed'
+risen_lord:
+  name: 'Risen Lord'
+  address: 'Family Life Education Center 3250 California Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kSgnW7Gu7lH8"
+  hours: 'Ash Wednesday and Friday of Lent, inluding Good Friday (dinner only), 11am-1pm(lunch), 3-6:30pm(dinner)'
+  menu: 'Fish sandwich with fries, $6.50; shrimp with fries, $6.50; baked fish with cole slaw, $6.50; fish and chips(planks,hush puppies, french fries)$6; Maryland crab with cole slaw ad fries, $5; grilled cheese and tomato soup, $5; egg or tuna salad croissant with chips $4.50; baked potato with toppings, $2.50-$3; homemade potato soup, $3; seasfood salad $4; soup of the dat, $3; variety of a la carte items including: sweet potato fries, hush puppies, cheese sticks, onion rings, and more. Delivery only with a minumum $15 purchase.  Dinner menu: fried fish sandwich platter, baked fish and fried shrimp, $8.50; Maryland crab cake $8.50; seafood platter (fried fish, crab cake, and shrimp), $11. Dinners include roll or sandwich bun and choice of french fries, sweet potato fries, macaroni and cheese, haluski or baked potato, and choice of cole slaw, stewed tomatoes, applesauce or hush puppies. Also, a la carte and children menus. Homemade pierogies are $3.25 for three. Also a variety of a la carte items and homemade desserts'
+  price: 'Prices listed above'
+  contact: 'For lunch delivery and pickup orders, fax 412-761-6454 the day before or until 11am on Fridays, or call 412-766-1702 after 8:30 am on Fridays., Dinner orders 412-766-1702 after 2pm'
+robert_bellarmine:
+  name: 'St. Robert Bellarmine'
+  address: 'Parish center, 1313 5th Ave, East McKeesport, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k1kTx9DOiq8U"
+  hours: 'Ash Wednesday and Fridays of Lent, inluding Good Friday, 4-7pm'
+  menu: 'Baked or fried cod; fried breadedshrimp; grilled cheese sandwich.Dinners include homemade haluskior pierogies, applesauce or cole slaw,homemade french fries and ice teaor coffee. Desserts are available at areasonable price.'
+  price: 'Free ice cream isserved to children age 12 and under.Adult dinners are $9, children are$4.50 (for reduced portions).'
+  contact: '412-824-2644'
+st_rosalia:
+  name: 'St Rosalia'
+  address: 'Parish hall, 411 Greenfield Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kj7K55WDn78k"
+  hours: 'Ash Wednesday and Fridays of Lent,including Good Friday, 3-7:30 p.m.'
+  menu: 'Fried or baked fish, shrimp, crab cakes, french fries, cole slaw,macaroni and cheese, haluski, soup,tossed salad, pierogies and applesauce'
+  price: 'Dinner is $8 and includes twosides. Other items include fish sandwich,baked fish, six shrimp or two crab cakes, $5.50 each. Also featuringbake sale and raffle to win free fishfry dinner.'
+  contact: '412-421-1692'
+st_scholastica:
+  name: 'Saint Scholastica'
+  address: 'Christ the Divine Teacher Academy cafeteria,309 Brilliant Ave, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.koxthyalN-yw"
+  hours: 'Fridays, March 14 and April 11, 11a.m.-1 p.m. (lunch), 4-7 p.m. (dinner),'
+  menu: 'Fried and baked fish dinner,fried fish sandwich, homemadepierogies, macaroni and cheese, kids’pizza, side salad, vegetable, frenchfries and homemade desserts'
+  price: 'Cost is $10 for adult dinner with two sides, $9for seniors, and $6 for fish sandwichwith one side. Homemade pierogiesare $3, kids’ pizza is $6, and all otherside dishes are $3. Proceeds benefitthe academy.'
+  contact: 'To place an order, call 412-781-6846. Forinformation, call 412-781-7927.'
+st_sebastion:
+  name: 'St. Sebastian'
+  address: 'Cafeteria, 311 Siebert Rd, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kMGaV0hjg4io"
+  hours: 'Fridays of Lent, except Good Friday, 4:30-7 p.m. (4-7 p.m. for takeout),'
+  menu: 'Baked and fried fish, pasta primavera and cheese pizza; sides: fresh fruit and salad, with choice ofcole slaw or applesauce, vegetableor starch. Side dishes include pierogies,potato pancakes, haluski, frenchfries and macaroni and cheese'
+  price: 'Dinners are $10 for adults, $5 for kids'
+  contact: 'For information, call 412-364-7171, or visit www.fish4lent.org.'
+st_stephen:
+  name: 'St Stephen'
+  address: 'School hall, 5115 2nd Ave, Pittsburgh, PA 15207'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kgejMJ_6J9AQ"
+  hours: 'Friday, March 7, 3-7 p.m.'
+  menu: 'Fried fish sandwiches and/or dinner,french fries, haluski and macaroni and cheese. Also featuring a bake sale.'
+  price: 'Dinner is $7 for adults, $5 for fish sandwich and $1.50 for each side'
+  contact: 'No contact listed, order forms available at entrance'
+st_teresa:
+  name: 'St. Teresa of Avila'
+  address: 'Schoppol hall, 1000 1st St, Pittsburgh, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kh34UEy8Fmrw"
+  hours: 'Fridays of Lent, including Good Friday, 4:30-7:30 p.m. (4-7 p.m. on Good Friday)'
+  menu: 'Choice of fried or baked cod or fried shrimp,tomato Florentine soup or clam chowder, and side of fresh cut french fries, macaroni and cheese, cole slaw and applesauce. Fish sandwich and a la carte menu are available.'
+  price: 'Dinner is $9, Children’s meal is $4 for kids age 6-10 and is for dine-in only.'
+  contact: '412-367-9001, ext. 506, after 3 p.m. For more information, call 412-334-5748'
+st_therese:
+  name: 'St. Therese of Lisieux'
+  address: 'School cafeteria, 1 St Therese Ct, Munhall, PA 15120'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kj-dCiChBwJo"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 3:30-7 p.m.'
+  menu: 'Cod(fried fish, cheese, french fries, cole slaw on a bun), $9.50; fried fish dinner with bun, french fries and cole slaw, $8.50; baked fish dinner, with choice of potato or rice and cole slaw, $8.50; sautéed crab cakes, with choice of potato or rice and cole slaw, $8.50; jumbo shrimp with french fries and cole slaw, $8.50; stir-fried vegetables over long grain and wild rice, $7.50. A la carte menu includes fried fish sandwich, $7.50, haluski, $3; baked fish sandwich, $7.50; macaroni and cheese, $2.50; pierogies, $2.50; pizza, $1.50 a slice; baked potato with butter, $1; provolone sticks, $4; french fries, $2; cheese fries, $2.50 and more.'
+  price: 'Prices listed above'
+  contact: 'To place an order, call 412-462-8164. For information only, call 412-462-8163'
+thomas_becket:
+  name: 'St. Thomas A Becket'
+  address: 'School, 139 Gill Hall Rd, Clairton, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k36NE1VZdS4w"
+  hours: 'Fridays of Lent, including Good Friday,3:30-7 p.m.'
+  menu: 'Hand-breaded cod; baked cod; fried fish sandwich; shrimp; combo platter (with fried fish and shrimp); tuna melt. Dinners include two sides and beverage. Child menu is available. Also, homemade macaroni and cheese, haluski,soup, french fries, pizza and pierogies (Good Friday).'
+  price: 'Cost is $8 for fish dinner,$9 for combo dinner, $4 for child dinner'
+  contact: '412-655-9966 and for info only 412-655-2885 or 412-653-4322'
+thomas_more:
+  name: 'St. Thomas More'
+  address: 'Family Life Center, 126 Fort Couch Rd, Pittsburgh, PA 15241'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kMpBeS_Nz-ac"
+  hours: 'Fridays of Lent, except Good Friday,4:30-7:30 p.m'
+  menu: 'Pasta with salad or cole slaw, roll, and beverage for $9, Featured pastas: march 7, torellini with mushroom marsala sauce; March 14th, linguini with shrimp; March 21, salmon lasagna; March 28, linguini with pepper sauce; April 4, linguini with asparagus and mushrooms; April 11, pesto lasagna. Also peene with 4 cheeses and penne with marinara is featured every week. Adult menu includes baked cod with side of pasta with marinara sauce, salad, or cole slaw and beverage, roll'
+  price: 'Takeout si $9 and child menu is $5, special all-you-can-eat penne with marinara is $12'
+  contact: 'No contact listed'
+st_valentine:
+  name: 'St Valentine'
+  address: 'Frawley hall, 2710 Ohio St, Bethel Park, PA'
+  glink: https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k1WKN__v7Mik""
+  hours: 'Ash Wednesday and Fridays of Lent,including Good Friday, 4-7:30 p.m.'
+  menu: 'Jumbo beer-battered cod sandwich,$7.75; Nantucket baked cod, $7.25;butterfly shrimp, $7; pierogie dinner,$5.50; soup, salad and breadsticks,$5.50; children-sized fried fish sandwich, $4. A la carte dishes include soup, french fries, homemade haluski,macaroni and cheese, pierogies, cole slaw, garden salad, garlic breadsticks and cheddar cheese sauce. Items range from 50 cents-$3. Special $1 discount on entrees for senior citizens over 60'
+  price: 'Prices listed above'
+  contact: '412-851-9176, for info call 412-835-4415'
+st_victor:
+  name: 'Activity hall, St. Victor and Transfiguration'
+  address: '527 Bairdford Rd, Bairdford, PA 15006'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kT3yEPvgOp7o"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, noon-7pm'
+  menu: 'Deluxe fish sandwich, hand-breaded fried cod sandwiches and dinners, baked cod loin sandwiches and dinner, oyster sandwiches and dinner, haluski,pierogies, shrimp basket, macaroni and cheese, crab cakes, clam strips,clam chowder and bake sale.'
+  price: 'No prices listed'
+  contact: '724-265-4017'
+st_winifred:
+  name: 'St. Winifred'
+  address: 'Benedict Hall, 550 Sleepy Hollow Rd, Pittsburgh, PA 15228'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.ka4I_unSnbfI"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 4-7 p.m'
+  menu: 'Fried and baked fish sandwiches and platters, pierogies, pizza, soup of the week, crab cakes, fried shrimp, macaroni and cheese, haluski, french fries,cole slaw, salad, dessert and dinner roll'
+  price: 'No prices listed'
+  contact: '412-563-1415'
+st_cecilia:
+  name: 'St. Cecilia'
+  address: 'Social hall, 632 Virginia Ave, Rochester, PA 15074-1256'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k1qQMtxhPJtc"
+  hours: 'Fridays of Lent, except Good Friday, noon-7 p.m.'
+  menu: 'Fried fish dinner, with french fries, baked potato,two pierogies, $8.75; baked fish dinner with french fries, baked potato, two pierogies, $9; shrimp dinner with french fries, baked potato, two pierogies, $8.50; fish  sandwich, $7.25; fish on a plate (fried or baked), $7; salads with choice of dressing are available; side orders include pierogies, coleslaw, french fries, baked potato macaroni and cheese'
+  price: 'Prices listed above'
+  contact: '724-775-3775 or 3776'
+good_samaritan:
+  name: 'Good Samaritan'
+  address: 'Jericho Hall, 725 Glenwood Ave, Ambridge, PA 15003'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.ky7UJ1X3nq8U"
+  hours: 'Fridays of Lent, except Good Friday, 11am-7pm; Good friday os a pierogie takeout sale only 9am-5pm'
+  menu: 'Fried or baked fish, crab cake, shrimp - all $10; fried or baked fish sandwich is $8; Francines special combo dinner includes one piece of fish, two shrimp, one crab cake, one side-cole slaw or applesauce, dessert, and beverage for $10. Side orders: macaroni and cheese, french fries, haluski, cole slaw, and applesauce'
+  price: 'Prices listed above; delivery to Ambridge available with min. $20 purchase'
+  contact: '724-266-6010'
+lady_fatima:
+  name: 'Our Lady of Fatima'
+  address: 'Hohler Hall, 2270 Brodhead Rd, Aliquippa, PA 15001'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k_vrRJ5AZQxc"
+  hours: 'Fridays of Lent, including Good Friday, 4-7pm (3-7 pm on Good Friday)'
+  menu: 'Fried or baked fish $9; shrimp $9.50; fish sandwich $7.50; pierogies, $5 a dozen, $2.50 for a half-dozen; Sides include french fries, haluski, macaroni and cheese, green beans, cole slaw, desserts, and beverages'
+  price: 'Prices listed above'
+  contact: '724-375-7565'
+lady_peace:
+  name: 'Our Lady of Peace'
+  address: 'Social hall, 1000 3rd Ave, Conway, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kGBfB5o_RNpw"
+  hours: 'Fridays, March 7,21, April 4 and Good Friday, 11am-7pm'
+  menu: 'Shrimp, $8; baked or fried fish, $8 for adults, $7.25 for seniors, $6.25 for children under 12; <b>chicken</b>, $8 for adults, $7.25 for seniors, $6.25 for chldren under 12; Dinners include cole slaw, roll, coffeee, and choice of french fries, macaroni and cheese, or baked potato; menu includes fish sandwich, baked potato, and side orders; children under age 6 eat free'
+  price: 'Prices listed above'
+  contact: '724-869-5723'
+ss_peter:
+  name: 'SS Peter and Paul'
+  address: 'School cafeteria, 200 3rd St, Beaver, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k4O0ZAvMrtzE"
+  hours: 'Fridays of Lent, including Good Friday,3-7 p.m.'
+  menu: 'Fish sandwich, includes: large piece of fish, roll, beverage, dessert, cole slaw, and choice of pierogies, haluski, baked potato, pasta, french fries, or macaroni and cheese; sides also available for individual sale'
+  price: 'Fish sandwich, $7; fish dinner, $9 adult, $8 senior citizen, $5 children'
+  contact: '724-312-4088, for info 724-775-4111'
+st_titus:
+  name: 'St. Titus'
+  address: 'Titan Hall, 952 Franklin Ave, Aliquippa, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kTgzYBDLzssM"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, noon-6:30pm'
+  menu: 'Baked or fried fish dinners and sandwiches, shrimp dinners, pierogies, haluski, macaroni and cheese, and french fries'
+  price: 'Fish and shrimp dinners are $8.50 and include fish, french fries, macaroni and cheese, cole slaw, or applesauce; sandwiches are $7 and pierogies are $7.50 per dozen'
+  contact: '724-378-2734, for info 724-378-8561'
+st_alphonsus_butler:
+  name: 'St Alphonsus'
+  address: 'St Louis Church Hall, 202 W State St, West Sunbury, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kkXFRLylgoBE"
+  hours: 'Fridays of Lent, except Good Friday, 4-6 pm'
+  menu: 'Baked or fried North-Atlantic Cod, au gratin potatoes, french fries, macaroni and cheese, string beans, cole slaw, bread, cofee, tea, pie, and cake'
+  price: 'Dinners are $9 for adults, $5 for children, takeout is an additional charge'
+  contact: '724-476-1476'
+st_ferdinand:
+  name: 'St. Ferdinand'
+  address: 'Oldenski Hall, 2535 Rochester Rd, Cranberry Township, Pennsylvania'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k_XrOve9tFU8"
+  hours: 'Fridays of Lent, including Good Friday, 4-7pm'
+  menu: 'Menu includes baked and fried fish, french fries, macaroni and cheese, green beans, cole slaw,applesauce, pizza, beverage and dessert.'
+  price: '$9 dinner, $5 for 8-ounce piece of fish; $2.50 pizza; $2 french fries; $3 macaroni and cheese; 50 cents cole slaw or applesauce.'
+  contact: 'No contact listed'
+st_fidelis:
+  name: 'St. Fidelis'
+  address: 'Parish Hall, 125 Buttercup Rd, Butler, Pennsylvania'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5zMob_LfWe0"
+  hours: 'Starting Friday, Feb. 28, and goes through Fridays of Lent, except Good Friday, 4-7 p.m.'
+  menu: 'Deep-fried or baked fish with scalloped potatoes or french fries, green beans, cole slaw, bread, beverage and dessert'
+  price: 'Adult and all takeout meals are $9.50, children 10 and under are $5.'
+  contact: '724-482-2690.'
+st_gregory:
+  name: 'St. Gregory'
+  address: 'School cafeteria, 115 Pine St, Zelienople, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kCsk_iFVqtAk"
+  hours: 'Fridays of Lent, except Good Friday,4-7 p.m.'
+  menu: 'Breaded 8-ounce fried cod or hand-breaded 6-ounce baked cod;fried fish sandwich; fried shrimp. All entrees include homemade cole slaw,roll, dessert and beverage (for dine-in customers) and choice of two sides: french fries, baked potato, macaroni and cheese or vegetable; Children’s menu choices are pizza or child fish dinner of half of fried fish'
+  price: 'Dinner is $9 for adults, $7 for seniors, $5 for children ages 4-10 and free for ages 3 and under. Add $2 for special combo meal of three shrimp with fish dinner. Fish sandwich is $5 with one side,or $6 for french fries and cole slaw.'
+  contact: '724-452-8010 after 3:30 p.m'
+holy_sepulcher:
+  name: 'Holy Sepulcher'
+  address: 'School cafeteria, 1304 E Cruikshank Rd, Butler, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kYecto8ihdaU"
+  hours: 'Fridays of Lent, including Good Friday,4:30-7 p.m.'
+  menu: 'Baked or fried fish or breaded shrimp,with choice of two (scalloped potatoes,french fries, macaroni and cheese, green beans, applesauce,cole slaw).'
+  price: 'Cost is $9.50 for adults,$7 for seniors and child. Other items included baked or fried fish sandwich with potato chips for $7 and cheese pizza for $6.50 (can add mushrooms and black olives), desserts for $2.50 and more.'
+  contact: '724-272-9860'
+st_killian:
+  name: 'St. Killian'
+  address: 'Cafeteria, 7076 Franklin Rd, Cranberry Twp, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kSQ8faQXTCSE"
+  hours: 'Fridays of Lent, except Good Friday,4-8 p.m.'
+  menu: 'Dinners are $10 for adults,$8 for seniors, and include choice of hand-breaded fried cod, baked cod, fish sandwich or fried shrimp,tomato Florentine soup, choice of french fries, haluski or macaroni and cheese, choice of cole slaw or applesauce, plus dessert (beverages for dine-in customers only). Children dinners are $5, and include choice of hand-breaded cod, fried shrimp or cheese pizza, choice of french fries or macaroni and cheese, and choice of cole slaw or applesauce with dessert(beverage for dine-in customers only).'
+  price: 'Prices listed above'
+  contact: '724-625-1665, ext. 9, on Fridays from 2-7:30p.m. for pick-up after 4 p.m. To place a takeout order, you can also visit www.saintkilian.org/order anytime from the Saturday prior to the fish fry until 7 p.m. the day of. Visit www.saintkilian.org/fishfry'
+st_mary_assumption:
+  name: 'St. Mary of the Assumption'
+  address: 'School cafeteria, 821 Herman Rd, Butler, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kjlPlpnk3dno"
+  hours: 'Friday, Feb. 28, and Fridays of Lent,except Good Friday, 4-7 p.m.'
+  menu: 'Baked or pan-fried fish fillet,with scalloped potatoes or french fries, green beans, Spanish rice, cole slaw and bread. Also, homemade desserts and beverages.'
+  price: 'Dinners: $9.50 for adults and takeout; $5 for children age 6-10; and free for children 5 and under.'
+  contact: 'No contact listed'
+st_ann_waynesburg:
+  name: 'St. Ann'
+  address: '232 E High St, Waynesburg, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kFGx2M9Nv8fA"
+  hours: 'Fridays of Lent, including Good Friday(lunch only), 11:30 a.m.-1 p.m. (lunch),4:30-7 p.m. (dinner, no dinner on Good Friday),'
+  menu: 'Fish sandwich,with french fries cole slaw and beverage (for those eating-in), $6 for adults, $5 for seniors and students.Lunch can be delivered or picked up starting at 11:30 a.m. Dinner menu is $8 for adults, $6 for senior and students,and includes fried fish, french fries, cole slaw, roll, drink and desert.Kids under 12 are free. Pasta fagioli is available for dinner, lunch and takeout,and sales benefit the “heart and sole” program. Weekly dinner specials include baked tilapia dinner or six fried shrimp for $9. Also available,six shrimp for $4, three potato-filled pierogies with onions for $3. Baked potato can be added to dinner for an additional 50 cents.'
+  price: 'Prices listed above'
+  contact: '724-627-7568,ext. 17, starting after 10 a.m. Fridays'
+st_camillus:
+  name: 'St. Camillus'
+  address: 'Gym, 314 W Englewood Ave, New Castle, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kCaKBU3lXUw0"
+  hours: 'Ash Wednesday, 11 a.m.-6:30 p.m.'
+  menu: 'Baked or oven-fried fish, pierogies,macaroni and cheese, french fries, cole slaw, applesauce, dinner roll, cake and drinks.'
+  price: 'Dinner is $9 for adults, $5 for children. Fish sandwich is $6 and available for takeout only.'
+  contact: 'No contact listed'
+holy_redeemer:
+  name: 'Holy Redeemer'
+  address: 'Catholic center, 311 Lawrence Ave, Ellwood City, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k4MZg35dSsvA"
+  hours: 'Ash Wednesday, 3-7 p.m.,'
+  menu: 'Fried or baked fish dinner with macaroni and cheese, cole slaw and cake for $9. Fish sandwich is $6.50. A la carte items include macaroni and cheese, cole slaw and cake.'
+  price: 'Prices listed above'
+  contact: 'No contact listed'
+james_apostle:
+  name: 'St. James the Apostle'
+  address: 'Parish hall, 4019 U.S. 422, Pulaski, PA 16143'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kgEUfYd8rDmY"
+  hours: 'Fridays of Lent, except Good Friday,4-7 p.m.,'
+  menu: 'Baked or fried fish, french fries, pierogies, macaroni and cheese, green beans, cole slaw,rolls, beverages and dessert.'
+  price: 'Dinners are $8 for adults, $4 for children.'
+  contact: '724-964-8276'
+st_vincent_paul:
+  name: 'St. Vincent de Paul'
+  address: 'Parish hall, 1 Lucymont Dr, New Castle, PA 16102'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kybAhOmQxejo"
+  hours: 'Fridays of Lent, except Good Friday,11 a.m.-6 p.m.'
+  menu: 'Baked or fried fish sandwich with one side, $8; baked or fried fish dinner with two sides, $10,shrimp basket with two sides, $10; child’s dinner with one side, $5. Sidesinclude waffle fries, macaroni and cheese, cabbage and noodles and cole slaw. Homemade baked goods for sale every Friday'
+  price: 'Prices listed above'
+  contact: '724-652-5829,ext. 6 or 8'
+st_alphonsus_mcdonald:
+  name: 'St. Alphonsus'
+  address: 'Parish hall, 219 W Lincoln Ave, McDonald, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k5K16oIbfixs"
+  hours: 'Ash Wednesday and Friday, March 7, 11 a.m.-7 p.m.'
+  menu: 'Fried or baked fish sandwich for lunch is $7, fried or baked fish and a roll for dinner is $7. Other items include pierogies, $3, haluski,$3, macaroni and cheese, $3, coleslaw, $1 and soft drink is $1. Coffee,team and lemonade are free'
+  price: 'Prices listed above'
+  contact: 'No contact listed'
+st_benedict_abbot:
+  name: 'St. Benedict the Abbot'
+  address: 'Social hall, 120 Abington Dr, McMurray, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kCSlFts6DLwM"
+  hours: 'Ash Wednesday and Fridays of Lent,including Good Friday, 11 a.m.-1 p.m.(lunch), 4-7:30 p.m.(dinner), 4-7 p.m.(takeout only on Ash Wednesday),11 a.m.-1 p.m. (takeout only on Good Friday),'
+  menu: 'Lunch menu includes fried fish sandwich basket with french fries and cole slaw, fish sandwiches, weekly soup specials and cheese pizza.Dinner menu includes fish baskets of fried or baked fish or shrimp with french fries and cole slaw, fish sandwiches,whole or slices of cheese pizza, soup special, pierogies with butter and onions, haluski and macaroni and cheese'
+  price: 'No prices listed'
+  contact: 'No contact listed'
+damien_molokai:
+  name: 'St. Damien of Molokai'
+  address: 'Father Abbate Hall, 225 Park Ave, Monongahela, PA 15063'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.k6OktLX4ftw4"
+  hours: 'Ash Wednesday and Fridays of Lent,except Good Friday, noon-7 p.m.'
+  menu: 'Fish dinner with two sides, $7;shrimp dinner with two sides, $7; fish sandwich, $5, shrimp a la carte is $5.All sides are $2. Menu also includes french fries, macaroni and cheese,cole slaw, haluski, cheese sticks, pizza, and drinks'
+  price: 'Prices listed above'
+  contact: '724-258-9276'
+st_francis_assisi:
+  name: 'St. Francis of Assisi'
+  address: 'Finley Hall, 3609 Washington Ave, Finleyville, PA'
+  glink: ""
+  hours: 'Ash Wednesday, noon-6:30 p.m.'
+  menu: 'Dinner and a la carte menu'
+  price: 'No prices listed'
+  contact: '724-348-1803. For more information only, call 724-348-7145'
+immaculate_conception:
+  name: 'Immaculate Conception'
+  address: 'Church hall, 119 W Chestnut St, Washington, PA 15301'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kqtYeN1mKgBI"
+  hours: 'Ash Wednesdays and Fridays of Lent,including Good Friday, 11 a.m.-7 p.m.,'
+  menu: 'Baked or fried fish dinner, $7.25;shrimp dinner, $9; fish sandwich,$5.50; pierogies, $3.25; cabbage and noodles, $3.25; pizza, $3.50. Also, salads, french fries, and macaroni and cheese.'
+  price: 'No prices listed'
+  contact: '724-222-9737'
+st_joe_roscoe:
+  name: 'St Joseph'
+  address: 'Social hall, 105 Good St, Roscoe, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kZKxNIA5_xbk"
+  hours: 'Ash Wednesday and Fridays of Lent,including Good Friday, noon-6 p.m.(closed from 1:45-3:15 p.m. on Good Friday),'
+  menu: 'fish dinner and sandwich,french fries, cole slaw, fish sandwich (with cheese available), fish on a dish, pizza, shrimp dinner and pizza. Sides include haluski, vegetable soup, pierogies and macaroni and cheese. Beverages are available'
+  price: 'Fish dinner with sandwich, french fries and cole slaw is $9, shrimp dinner is $8. Also featuring large bake sale each week'
+  contact: '724-938-2260 on day of sale, or 724-938-2146 day before sale.For information only, call 724-938-3204. Delivery to local areas available.'
+st_mary_cecil:
+  name: 'St. Mary Cecil'
+  address: "10 Saint Mary's Ln Cecil, PA 15321"
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kmWe1C-rf0QM"
+  hours: 'Ash Wednesday and Fridays of Lent, including Good Friday, 11 a.m.-7:30 p.m.'
+  menu: 'Seasoned panko-breaded cod deep-fried in heart healthy tri-fry oil that is cholesterol and trans-fat free. Other healthy alternatives include baked cod, salmon and Maine lobster rolls. Also, homemade crab cakes, pan-seared scallops, shrimp in a basket, jumbo shrimp, and cabbage and noodles.Side orders include green beans,baked potato, french fries and cole slaw. New this year is seafood pizza'
+  price: 'No prices listed'
+  contact: '412-221-9771 on day of fish fry, or 412-221-1560 on other days, or visit www.stmarycecil.org.'
+lady_lourdes:
+  name: 'Our Lady of Lourdes,'
+  address: 'McCashin Hall, 1109 Main St, Burgettstown, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.khJFRF2ZhNFg"
+  hours: 'Ash Wednesday and Fridays of Lent,including Good Friday, starting at 3pm'
+  menu: 'Fried or baked fish, shrimp, pierogies, haluski, french fries, cole slaw and crab cakes'
+  price: 'Dinners start at $5.'
+  contact: '724-947-5076. For information, call 724-947-3363'
+st_patrick:
+  name: 'St. Patrick'
+  address: 'School cafeteria, 317 W Pike St, Canonsburg, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kBrude_VgCLs"
+  hours: 'Fridays of Lent, except Good Friday,11 a.m.-1 p.m. (lunch), 4-7 p.m. (dinner)'
+  menu: 'Fried fish sandwich, soup of the day, sides and more. Sandwich is $7 for adults and $3.50 for children; Dinner menu includes baked or fried fish, or shrimp, with two sides, roll, dessert and beverage. Cost is $9 for adults, $5 for children. Seafood platter is $12 and includes fish, shrimp and clam strips, along with two sides, roll, dessert and beverage. Pierogies are $9 a dozen. Other sides include hush puppies, french fries, haluski, macaroni and cheese, cole slaw, applesauce and stewed tomatoes'
+  price: 'Prices listed above'
+  contact: 'Lunch delivery within seven miles and $30 minimum order. Southpointe customers shouldrequest delivery of 11:30 a.m. or 12:15p.m. 724-745-6560 or 724-746-1112.'
+lady_valley:
+  name: 'Our Lady of the Valley'
+  address: 'Social hall, 1 Park Mnr, Donora, PA'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kznIkD-Lxy0I"
+  hours: '“Monster fish fry,” Ash Wednesday and Fridays of Lent, including Good Friday, starting at 11 a.m. (3p.m. on Good Friday),'
+  menu: 'Baked monster haddock dinner, $12.50;fried batter-dipped haddock dinner, $12.50; breaded jumbo fantail shrimp, $12.50. All dinners include cole slaw, dessert, beverage and choice of french fries, pierogies or haluski. Monster fish sandwich (sold separately) of baked or fried fish with cole slaw is $9, and shrimp in a basket with cole slaw is $9. A la carte menu includes french fries, haluski, pierogies, pasta fagiole soup, cole slaw, dessert and beverages.'
+  price: 'Prices listed above'
+  contact: '724-379-7559'
+sacred_heart:
+  name: 'Sacred Heart Church of Immaculate Conception Parish'
+  address: 'Social hall, 2315 Main St, Claysville, PA 15323'
+  glink: "https://mapsengine.google.com/map/u/0/embed?mid=zi3G2J1BZndI.kRMVuaELr4uk"
+  hours: 'Fridays of Lent, except Good Friday,11 a.m.-7 p.m.'
+  menu: 'Fried or baked Coleman fish, french fries, cole slaw, shrimp and cabbage and noodles.'
+  price: 'No prices listed'
+  contact: '724-663-7675'
+
