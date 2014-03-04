@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'sinatra'
 require 'yaml'
-require 'rack-google-analytics'
 
 get '/' do
     erb :index
